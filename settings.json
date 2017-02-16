@@ -1,0 +1,24 @@
+// Place your settings in this file to overwrite the default settings
+{
+	// "update.channel": "none",
+	"typescript.check.tscVersion": false,
+	"editor.folding": false,
+	"editor.renderIndentGuides": true,
+	"editor.fontFamily": "Fira Code",
+	"editor.fontSize": 14,
+	"editor.fontLigatures": true,
+	"editor.wrappingColumn": -1,
+	"typescript.referencesCodeLens.enabled": true,
+	"editor.wordWrap": false,
+	"files.autoSave": "afterDelay",
+	"explorer.openEditors.visible": 0,
+	"workbench.editor.showTabs": false,
+	"workbench.editor.enablePreview": false,
+	"git.enableLongCommitWarning": false,
+	"window.reopenFolders": "all",
+	"files.hotExit": "onExitAndWindowClose",
+	"window.zoomLevel": 0,
+	"window.openFilesInNewWindow": "off",
+    "workbench.welcome.enabled": true,
+	"workbench.iconTheme": "vs-seti"
+}

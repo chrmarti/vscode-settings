@@ -1,0 +1,23 @@
+// Overwrite key bindings by placing them into your key bindings file.
+[
+    // { "key": "cmd+a", "command": "" }
+    {
+        "key": "ctrl+alt+i",
+        "command": "editor.action.inspectTMScopes",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "Cmd+P",
+        "command": "workbench.action.quickOpenNavigateNext",
+        "when": "inQuickOpen"
+    },
+    {
+        "key": "ctrl+`",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+`",
+        "command": "workbench.action.terminal.focus",
+        "when": "!terminalFocus"
+    }
+]
