@@ -20,5 +20,7 @@
 	"window.zoomLevel": 0,
 	"window.openFilesInNewWindow": "off",
     "workbench.welcome.enabled": true,
-	"workbench.iconTheme": "vs-seti"
+	"editor.minimap.enabled": true,
+	"workbench.iconTheme": "vs-seti",
+	"workbench.colorTheme": "Default Dark+"
 }
